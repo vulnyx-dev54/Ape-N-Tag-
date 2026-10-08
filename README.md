@@ -3,3 +3,4 @@
 
 Ape'nTag is a modded version of Gorilla Tag with included mod menus, modifications (and maybe new zones).
 Join our discord server here :
+https://discord.gg/nYnwsd4rGk
